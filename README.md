@@ -1,2 +1,3 @@
 # comp2900
-Estructura de Datos
+Cursos de __Estructura de Datos__
+
